@@ -167,4 +167,4 @@ We used the **Br35H dataset**, which includes:
 
 ## 📎 More Info
 
-🔗 _Check out the full paper and code repository for more details!_
+🔗 _Check out the full paper in doc/ for more details!_
