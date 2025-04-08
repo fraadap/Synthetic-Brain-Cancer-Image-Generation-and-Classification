@@ -165,6 +165,10 @@ We used the **Br35H dataset**, which includes:
 
 ---
 
+## Sources
+
+At the following Google Drive link, you can find the dataset (both real and synthetic) and the weights for the classification and generation models. https://drive.google.com/drive/folders/1JJT4MP_5GSH_CU1Blvm6GpfhzZvHZFlb
+
 ## 📎 More Info
 
 🔗 _Check out the full paper in doc/ for more details!_
